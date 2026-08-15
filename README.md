@@ -70,9 +70,10 @@ This will create a local copy of the repository on your machine.
 | type                            | object                | Type of tweet (e.g., original, reply, retweet,sponsored).                 |
 | user_id                         | float64              | ID of the user as a float.                                       |
 
-## Note (Updated as of 13/02/2025)
+## Note (Updated as of 14/08/2026)
 - Ad tweets contain only text, with all other fields remaining as NaN.
 - Data Available (1st May 2024 - 30th November 2024)
+- Part 36 have been removed due to erroneus records, the valid records of part 36 have been redistributed to the rest of the parts from 37.
 
 
 ## Usage
