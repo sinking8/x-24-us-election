@@ -84,7 +84,7 @@ You can navigate to the relevant part directory and read the chunk files for fur
 Please email ashwinblaze111@gmail.com
 
 ## Data usage agreement
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). By using this dataset, you agree to abide by the stipulations in the license and cite the following manuscript:
+This dataset is licensed under the (CC0 1.0 Universal). By using this dataset, you agree to abide by the stipulations in the license and cite the following manuscript:
 
 ## Memos
 Check out our memo that provides a deeper insight into the dataset: [https://arxiv.org/abs/2411.00376](https://arxiv.org/abs/2411.00376)
