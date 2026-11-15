@@ -80,6 +80,18 @@ This will create a local copy of the repository on your machine.
 
 You can navigate to the relevant part directory and read the chunk files for further analysis. The structure allows you to process tweets in manageable chunks, facilitating easier handling of large datasets.
 
+## BibTeX
+```bibtex
+@inproceedings{balasubramanian2025public,
+  title={A public dataset tracking social media discourse about the 2024 U.S. presidential election on Twitter/X},
+  author={Balasubramanian, Ashwin and Zou, V. and Narayana, H. and You, C. and Luceri, Luca and Ferrara, Emilio},
+  booktitle={Proceedings of the ICWSM Workshops},
+  year={2025},
+  note={Paper 2025\_15},
+  url={[https://workshop-proceedings.icwsm.org/pdf/2025_15.pdf](https://workshop-proceedings.icwsm.org/pdf/2025_15.pdf)}
+}
+```
+
 ## Contact 
 Please email ashwinblaze111@gmail.com
 
